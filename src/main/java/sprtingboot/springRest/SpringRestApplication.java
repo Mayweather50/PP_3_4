@@ -27,12 +27,6 @@ public class SpringRestApplication {
 		staticRestTemplate.deleteUser(3L);
 		System.out.println(staticRestTemplate.allUsers());
 
-
-
-
-
-
-
 	}
 
 
